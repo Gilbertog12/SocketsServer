@@ -1,3 +1,3 @@
 
 
-export const server_port: number = 5000
+export const SERVER_PORT: number = 5000
